@@ -1,0 +1,6 @@
+{
+  "name": "InsightBot - AI Data Analysis & KPI Intelligence",
+  "description": "Transform business problems and raw data into actionable KPIs, browser-executable SQL queries, dynamic visual charts, and conversational data insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
